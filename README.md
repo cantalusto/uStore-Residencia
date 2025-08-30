@@ -69,6 +69,8 @@ A aplicação estará disponível em http://localhost:3000.
 
 🔑 Credenciais de Acesso (Mock)
 O sistema de login é simulado para fins de demonstração. Você pode usar os seguintes emails para testar os diferentes níveis de acesso.
+
+
 **Admin User:**
 
 - Email: `admin@company.com`
